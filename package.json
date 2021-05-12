@@ -35,7 +35,7 @@
     "url": "https://github.com/zefoy/ngx-swiper-wrapper.git"
   },
   "dependencies": {
-    "swiper": "^4.4.0"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "@angular/cli": "^7.2.0",
